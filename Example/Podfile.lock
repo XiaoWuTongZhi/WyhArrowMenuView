@@ -1,0 +1,16 @@
+PODS:
+  - WyhArrowMenuView (1.0.0)
+
+DEPENDENCIES:
+  - WyhArrowMenuView (from `../`)
+
+EXTERNAL SOURCES:
+  WyhArrowMenuView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WyhArrowMenuView: 0f62c130422abe51cc5e03c744007a535e818244
+
+PODFILE CHECKSUM: 9ec19f8e115e39d71039d2a8ac64fe92a408b20d
+
+COCOAPODS: 1.8.4
