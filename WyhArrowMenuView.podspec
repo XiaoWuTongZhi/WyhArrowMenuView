@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   s.screenshots     = 'https://raw.githubusercontent.com/XiaoWuTongZhi/Github-Images/master/misc/screenshot.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '609223770@qq.com' => '609223770@qq.com' }
-s.source           = { :git => 'git@github.com:XiaoWuTongZhi/WyhArrowMenuView.git', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/XiaoWuTongZhi/WyhArrowMenuView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

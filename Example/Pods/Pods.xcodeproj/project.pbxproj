@@ -44,8 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		096F375D23429CE0981C6813A210CAB1 /* Pods_WyhArrowMenuView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WyhArrowMenuView_Example.framework; path = "Pods-WyhArrowMenuView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		16FF41097EC3E82770DDDF3B8FA74EDE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		096F375D23429CE0981C6813A210CAB1 /* Pods_WyhArrowMenuView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WyhArrowMenuView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		16FF41097EC3E82770DDDF3B8FA74EDE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1B9C0BC752A007992F396322768797E9 /* WyhArrowMenuItem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WyhArrowMenuItem.h; path = WyhArrowMenuView/Classes/WyhArrowMenuItem.h; sourceTree = "<group>"; };
 		1CA4442DEDBB5C9BCB90CD3C49F7DDB7 /* Pods-WyhArrowMenuView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WyhArrowMenuView_Example.modulemap"; sourceTree = "<group>"; };
 		2301304D8365BB8ACD4DE8630D005950 /* Pods-WyhArrowMenuView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WyhArrowMenuView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		457676317409E32C88D7CF63A8FAC5E5 /* Pods-WyhArrowMenuView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WyhArrowMenuView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		4964F5F7C1780A2D6B1406C4F1D71EB5 /* Pods-WyhArrowMenuView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WyhArrowMenuView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4C3C7CE4929C0FA5F13CA7F1B53E0058 /* WyhArrowMenuView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WyhArrowMenuView-umbrella.h"; sourceTree = "<group>"; };
-		5718893F362590C0FDAECB62DD190DA4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		5718893F362590C0FDAECB62DD190DA4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		5F54AA2C4AA79A3DD16D29AE1ABEF628 /* Pods-WyhArrowMenuView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WyhArrowMenuView_Tests-Info.plist"; sourceTree = "<group>"; };
 		69261F2E0E8ED7BD6F6B0E3B13D1D9C0 /* Pods-WyhArrowMenuView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WyhArrowMenuView_Example-umbrella.h"; sourceTree = "<group>"; };
 		69CEC780226C3D7F1CBDB076A01DDC04 /* Pods-WyhArrowMenuView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WyhArrowMenuView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -67,15 +67,15 @@
 		838401599B8CBDFB6CC31277E9BF8A66 /* Pods-WyhArrowMenuView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WyhArrowMenuView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9778C402B74CB09AC8FF6A5D05AC10CD /* WyhArrowMenuView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WyhArrowMenuView.modulemap; sourceTree = "<group>"; };
 		9806C042ACCD6FF2DBF2B1A0E7232A01 /* Pods-WyhArrowMenuView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WyhArrowMenuView_Example-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A70D77BB6D84DEB0BA1F1212791C67BE /* Pods-WyhArrowMenuView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WyhArrowMenuView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		AAAF3ABBF5DD464D27EB6A5B70CD3A28 /* WyhArrowMenuAlert.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WyhArrowMenuAlert.m; path = WyhArrowMenuView/Classes/WyhArrowMenuAlert.m; sourceTree = "<group>"; };
-		B324E283115170FA511AB6C51E4CF6B1 /* WyhArrowMenuView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = WyhArrowMenuView.framework; path = WyhArrowMenuView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C30A06FD790A1689859FDC1822D931A8 /* WyhArrowMenuView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = WyhArrowMenuView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B324E283115170FA511AB6C51E4CF6B1 /* WyhArrowMenuView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WyhArrowMenuView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C30A06FD790A1689859FDC1822D931A8 /* WyhArrowMenuView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = WyhArrowMenuView.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		C745149B95F4C9E41E9F3E934CA87605 /* Pods-WyhArrowMenuView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WyhArrowMenuView_Tests.modulemap"; sourceTree = "<group>"; };
 		D37A6D6DD01421687EB7360650355F1D /* Pods-WyhArrowMenuView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WyhArrowMenuView_Tests-dummy.m"; sourceTree = "<group>"; };
 		D56DCF64F109359725123D6057A4228F /* Pods-WyhArrowMenuView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WyhArrowMenuView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		D6D9AB05313A2C5B864132DA2DD32273 /* Pods_WyhArrowMenuView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WyhArrowMenuView_Tests.framework; path = "Pods-WyhArrowMenuView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6D9AB05313A2C5B864132DA2DD32273 /* Pods_WyhArrowMenuView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WyhArrowMenuView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E68A2AECE7451CE05487800387BDB285 /* WyhArrowMenuItemStyle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WyhArrowMenuItemStyle.h; path = WyhArrowMenuView/Classes/WyhArrowMenuItemStyle.h; sourceTree = "<group>"; };
 		ECEAD5B306D88381E817021D438D9CC7 /* WyhArrowMenuView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "WyhArrowMenuView-Info.plist"; sourceTree = "<group>"; };
 		ED336E28AAA2DE2DF0B257F4EC0C6AB2 /* Pods-WyhArrowMenuView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WyhArrowMenuView_Example-frameworks.sh"; sourceTree = "<group>"; };
@@ -582,8 +582,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
