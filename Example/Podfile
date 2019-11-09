@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WyhArrowMenuView_Example' do
+  pod 'WyhArrowMenuView', :path => '../'
+
+  target 'WyhArrowMenuView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
